@@ -2,7 +2,7 @@
 # 3-Clause License. See top-level LICENSE file or
 # https://github.com/Kitware/seal-tk/blob/master/LICENSE for details.
 
-cmake_minimum_required(VERSION 3.12)
+cmake_minimum_required(VERSION 3.11.4)
 project(sealtk
   VERSION 0.1
   LANGUAGES CXX
